@@ -1,9 +1,8 @@
 An AI-powered forecasting system that predicts economic and market trends using multi-source financial, macroeconomic, and behavioral indicators.
-
 Designed to help analysts, businesses, and decision-makers anticipate economic shifts before they happen.
 
 
- The Problem
+1) The Problem
 
 Economic signals are scattered across:
 
@@ -14,21 +13,8 @@ Consumer activity
 Financial markets
 News sentiment
 
-Most forecasting systems are:
 
-Reactive instead of predictive
-
-Static and hard to interpret
-
-Limited to single-variable analysis
-
-Organizations need a system that can combine multiple indicators into a unified forward-looking forecast.
-
-The Solution
-
-
-
-This project builds a predictive economic intelligence engine that:
+2) This project builds a predictive economic intelligence engine that:
 
 👉 Aggregates macroeconomic indicators
 
@@ -39,7 +25,7 @@ This project builds a predictive economic intelligence engine that:
 👉 Generates explainable economic risk scores
 
 
-Predicts:
+3) Predicts:
 
 Economic slowdowns
 
@@ -49,36 +35,9 @@ Inflation trends
 
 Market stress signals
 
- Multi-Signal Analysis
+Multi-Signal Analysis
 
 
-Uses machine learning to:
-
-Forecast future economic conditions
-
-Identify trend direction changes
-
-Estimate economic risk probability
-
-
-Economic Risk Scoring
-
-Generates:
-
-Growth outlook score
-
-Recession probability
-
-Market stress indicators
-
-Interactive Dashboard
-
-Visualizes:
-
-Forecast trends
-Economic indicators
-Risk heatmaps
-Time-series predictions
 
 Techniques Used
 
@@ -103,15 +62,6 @@ Risk probability
 Trend shifts
 
 
-4. Generate Insights
-
-Forecast scores
-Economic outlook
-Risk summaries
-5. Visualize Results
-
-Display forecasts in dashboard and API.
-
 
  Use Cases
  
@@ -124,6 +74,8 @@ Risk analytics
 Financial intelligence
 
 Market monitoring
+
+
 
 Key Impact
 
