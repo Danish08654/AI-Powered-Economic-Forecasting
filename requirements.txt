@@ -1,0 +1,16 @@
+ Tech Stack
+Machine Learning
+XGBoost
+Scikit-learn
+Backend
+FastAPI
+Uvicorn
+Data Processing
+Pandas
+NumPy
+Visualization
+Plotly
+Streamlit
+Utilities
+Joblib
+Pydantic
