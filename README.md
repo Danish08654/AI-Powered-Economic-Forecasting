@@ -66,7 +66,9 @@ Economic Risk Scoring
 Generates:
 
 Growth outlook score
+
 Recession probability
+
 Market stress indicators
 
 Interactive Dashboard
@@ -79,11 +81,15 @@ Risk heatmaps
 Time-series predictions
 
 Techniques Used
-Technique	Purpose
+
 Time-Series Forecasting	Predict future trends
+
 Feature Engineering	Create economic indicators
+
 Ensemble ML Models	Improve prediction robustness
+
 Sentiment Analysis	Detect economic sentiment
+
 Trend Analysis	Identify directional changes
 
 
@@ -91,11 +97,13 @@ Trend Analysis	Identify directional changes
 Predict:
 
 Economic direction
-Risk probability
-Trend shifts
-4. Generate Insights
 
-Produce:
+Risk probability
+
+Trend shifts
+
+
+4. Generate Insights
 
 Forecast scores
 Economic outlook
@@ -106,10 +114,15 @@ Display forecasts in dashboard and API.
 
 
  Use Cases
+ 
 Economic forecasting
+
 Investment research
+
 Risk analytics
+
 Financial intelligence
+
 Market monitoring
 
 Key Impact
@@ -117,12 +130,18 @@ Key Impact
 This system enables organizations to:
 
 Detect economic shifts early
+
 Improve strategic planning
+
 Reduce financial uncertainty
+
 Make data-driven investment decisions
 
 
+
  Author
+ 
 
 Danish Zulfiqar
+
 AI / ML Engineer | Predictive Analytics | Applied AI
