@@ -39,7 +39,7 @@ Multi-Signal Analysis
 
 
 
-Techniques Used
+4) Techniques Used
 
 Time-Series Forecasting	Predict future trends
 
@@ -53,17 +53,8 @@ Trend Analysis	Identify directional changes
 
 
 
-Predict:
 
-Economic direction
-
-Risk probability
-
-Trend shifts
-
-
-
- Use Cases
+5)  Use Cases
  
 Economic forecasting
 
@@ -77,7 +68,7 @@ Market monitoring
 
 
 
-Key Impact
+6) Key Impact
 
 This system enables organizations to:
 
@@ -91,7 +82,7 @@ Make data-driven investment decisions
 
 
 
- Author
+7) Author
  
 
 Danish Zulfiqar
